@@ -3,8 +3,8 @@ name: dark-material-handler
 description: 'Take difficult, dark, or taboo subject matter and address it through Norm Macdonald''s approach: sincere delivery, finding absurdity in darkness, treating uncomfortable topics as ordinary conversati...'
 license: MIT
 metadata:
+  version: 1.0.3765
   author: sethmblack
-  version: 1.0.3764
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
